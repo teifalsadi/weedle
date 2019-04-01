@@ -20,7 +20,7 @@ All turnins (Group and individual) is turned on on thursdays. The SCRUM master w
 ## Group structure
 
 The group has a SCRUM master / group leader and a secretary.  
-**The SCRUM master**: Makes sure that there is an agenda before each meetings and keeps track of the meetings order of buissness. Also makes sure that the individual assignments are turned in on time.  
+**The SCRUM master**: Makes sure that there is an agenda before each meetings and keeps track of the meetings order of buissness. Also makes sure that the individual assignments are turned in on time.
 **Secretary**: Writes a protocol for each meeting and makes sure this exists on github after the meeting.
 
 ## Meeting times
@@ -47,9 +47,13 @@ Each day (from course-week 3) a daily SCRUMB meeting will be held over slack. Ea
 - Problems you might need help with.
 - What you're going to do today.
 
-## Codeconventions
+## Coding Conventions
 
 - All code and comments will be written in english.
 - Git commit messages should be short, concise and sufficiently describe what has changed.
 - All PR:s should be reviewed by at least 2 other members of the group.
 - No force pushes to master/develop should be made.
+
+## Roles
+
+- The group decided that **Pontus** should be the scrum master and that **Oscar** should be the secretary.
