@@ -1,5 +1,4 @@
-// this file will have complaints with tslint
-
-function HelloWorld(): void  {
-    var a = "a";
+function a() {
+  let c = 1;
+  c = c + 1;
 }
