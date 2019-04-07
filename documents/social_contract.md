@@ -56,4 +56,4 @@ Each day (from course-week 3) a daily SCRUMB meeting will be held over Slack. Ea
 
 ## Roles
 
-- The group decided that **Pontus Lindblom** is the scrum master and that **Oscar Östberg** is the secretary.
+- The group decided to make **Pontus Lindblom** the SCRUM master and **Oscar Östberg** the secretary.
