@@ -52,7 +52,15 @@ Each day (from course-week 3) a daily SCRUMB meeting will be held over Slack. Ea
 - All code and comments will be written in English.
 - Git commit messages should be short, concise and sufficiently describe what has changed.
 - All PR:s should be reviewed by at least 2 other members of the group.
-- No force pushes to master/develop should be made.
+- No force pushes to master / develop should be made.
+- The person who created a pull request is also the person that merges it.
+- TODO:s are not allowed.
+
+## Frameworks
+
+User stories: GitHub
+Language: JavaScript
+Language library: React Native
 
 ## Roles
 
