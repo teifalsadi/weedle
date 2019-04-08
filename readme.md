@@ -1,5 +1,7 @@
 # README
 
+## An aggregate app to find parking in gothenburg.
+
 ## Debugging
 
 To run the debugger for the app follow these instructions
@@ -19,3 +21,4 @@ If tslint is not working with Visual Studio Code a good bet is that tslint has a
 ```terminal
 $ yarn global remove tslint
 ```
+=======
