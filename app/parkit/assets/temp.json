@@ -7,7 +7,8 @@
       },
       "name": "Chalmers",
       "distance": 52.00521,
-      "city": "Gothenburg"
+      "city": "Gothenburg",
+      "owner": "Q-park"
     },
     {
       "position": {
@@ -16,16 +17,8 @@
       },
       "name": "Lisseberg",
       "distance": 109.01,
-      "city": "Gothenburg"
-    },
-    {
-      "position": {
-        "longitude": 57.69658,
-        "latitude": 11.98844
-      },
-      "name": "Lisseberg",
-      "distance": 109.01,
-      "city": "Gothenburg"
+      "city": "Gothenburg",
+      "owner": "Parking Gothenburg"
     },
     {
       "position": {
@@ -34,7 +27,8 @@
       },
       "name": "Ullevi",
       "distance": 1.05,
-      "city": "Gothenburg"
+      "city": "Gothenburg",
+      "owner": "Easy park"
     }
   ]
 }
