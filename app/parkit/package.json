@@ -7,7 +7,8 @@
     "lint": "tslint --project tsconfig.json",
     "start": "expo start",
     "validate": "yarn run lint && yarn run check-types",
-    "test": "yarn jest"
+    "test": "yarn jest --silent",
+    "tunnel": "expo start --tunnel"
   },
   "dependencies": {
     "expo": "32.0.6",
